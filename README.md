@@ -1,5 +1,5 @@
 ## Overview
-This project contains the R code for the paper "Personality traits as predictors of depression across the lifespan” published in the [Journal of Affective Disorders](https://doi.org/10.1016/j.jad.2024.03.073).
+This project contains the R code for the paper "Personality traits as predictors of depression across the lifespan” published in the Elsevier [Journal of Affective Disorders](https://doi.org/10.1016/j.jad.2024.03.073).
 
 ## Publications
 1. [Personality traits as predictors of depression across the lifespan](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:UeHWp8X0CEIC)
@@ -31,5 +31,5 @@ This project contains the R code for the paper "Personality traits as predictors
     - Purpose: Creates confidence intervals of the model metrics for all runs, saved as Behavioral_Confidence_Interval_Summary.csv in the Confidence_Intervals folder.
 
 7) **visualize_average_coefs.R**
-    - Location: Results/
+    - Location: Source/Results/
     - Purpose: Creates a bar graph of the coefficient magnitudes, saved as Behavioral_Model_Coefficients_avg.png in the Coefficients folder.
